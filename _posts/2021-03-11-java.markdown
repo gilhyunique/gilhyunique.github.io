@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Java 입문"
+subtitle: "test"
+categories: study
+tags: java markdown blog posting
+date:   2021-03-11 12:45:00 +0900
+comment: true
+---
+
+#test 
+
+자바입문했다~
